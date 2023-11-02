@@ -1,2 +1,3 @@
 # Tercera-pre-entrega-Villarroel
 
+Luego de usar el comando 'runserver' y encontrarse en la pantalla de inicio de la página, debería acceder a la opción "Crear Vehículo". Esta opción se encuentra en el 'main' o en la parte superior de la página. De esta manera, podrá ingresar los datos deseados a las clases. Después de completar las clases con los datos y presionar el botón "Crear", la misma página lo redirigirá a la pantalla de "Vehículos". Esta pantalla le permitirá ver los datos ingresados en una de las clases y buscar el objeto deseado a través de su "marca".
